@@ -42,5 +42,5 @@ struct RealmConfigurationSampleApp: App {
 
 ## Demo
 
-![Realm Configurator](Images/Realm Configurator.gif)
+![Realm Configurator](Images/Realm%20Configurator.gif)
 
